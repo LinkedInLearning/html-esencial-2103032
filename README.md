@@ -31,7 +31,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/erica-aguado-exposito).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: 
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQFKr9DUMpFTVA/learning-public-crop_675_1200/0/1694762934641?e=1696496400&v=beta&t=gCS-0wnt06tgQZ10tNcaQjspWnflyNYq3r_hAQliJc0
+[lil-course-url]: https://www.linkedin.com/learning/html-esencial-22849768/personaliza-el-titulo-por-favor
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQFKr9DUMpFTVA/learning-public-crop_675_1200/0/1694762934641?e=2147483647&v=beta&t=2MKbZDfxTZkHSXrcmDkDeD54qZNADClLTvjRdeA-rrQ
 
 [1]: # (End of ES-Instruction ###############################################################################################)
