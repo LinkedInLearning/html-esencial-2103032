@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Mi primera página en HTML</title>
+  <style>
+    @font-face {
+      font-family: 'Lumanosino';
+      src: url('Lumanosimo/Lumanosimo-Regular.ttf');
+    }
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+    h1 {
+      font-family: 'Roboto';
+    }
+    p{
+      font-family: 'Lumanosimo';
+    }
+  </style>
+  
+</head>
+
+<body>
+    <h1>Título de la página</h1>
+    <p>Texot de ejemplo</p>
+</body>
+
+</html>
