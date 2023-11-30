@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Mi primera página en HTML</title>
+</head>
+
+<body>
+	<header> 
+    <!-- Cabecera de la página -->
+    <h1>Etiquetas semánticas</h1>
+    <p>Contenido de ejemplo</p>
+
+    <nav>
+        <!-- Contenido de navegación -->
+        <ul>
+          <li>Inicio</li>
+          <li>Contacto</li>
+        </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Título del contenido</h2>
+    <section>
+      <!-- Contenido de la sección -->
+    </section>
+    <article>
+      <!-- Contenido del artículo -->
+    </article>
+    <aside>
+      <!-- Contenido adicional o anuncios -->
+    </aside>
+  </main>
+  <footer>
+    <!-- Pie de página -->
+  </footer>
+</body>
+
+</html>
