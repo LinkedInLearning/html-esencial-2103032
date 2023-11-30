@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  
+<head>
+  <meta charset="UTF-8">
+  <title>Mi primera página en HTML</title>
+</head>
+
+<body>
+    <h1>Título de la página</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    <h2>Título secundario</h2>
+    <p>Aenean discum nisl dolor, vel aliquam arcu fringilla aliquam.</p>
+    <h3>Tercer título o subtítulo</h3>
+    <p>Texto de exemplo</p>
+    <h2>Nuevo título secundario</h2>
+    <p>Texto de exemplo</p>
+</body>
+
+</html>
