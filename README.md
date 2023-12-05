@@ -18,11 +18,11 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 ## Instalación
 
-1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - [software]
+1. Para utilizar estos archivos de ejercicios, puedes utilizar cualquier editor de código. En este curso hemos utilizado el siguiente:
+   - Visual Studio Code. https://code.visualstudio.com/
 
-2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
+2. Puedes clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
+3. Practica las diferentes opciones en cada uno de los archivos y visualiza como se muestran en tu navegador o en el propio visualizador de tu editor de código.
 
 ### Docente
 
